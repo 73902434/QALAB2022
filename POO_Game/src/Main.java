@@ -19,6 +19,7 @@ public class Main {
         nis.avanzar();
 
         System.out.println("Velocidad Máxima: " + nis.getdVelocidadMaxima());
+         System.out.println("Editado por Evelin Li Cuadrado fecha 08 /12/2022 ");
 
 /*
         Auto auto1 = new Auto();
